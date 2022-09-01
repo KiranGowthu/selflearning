@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is a File A - Version 2
+=======
+This is a File A - Version 2
+Created new branch for testing the changes.
+>>>>>>> mybranch
